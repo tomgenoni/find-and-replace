@@ -1,0 +1,10 @@
+[
+  {
+    "find": "tp-background--blue",
+    "replace": ["bg-blue"]
+  },
+  {
+    "find": "tp-background--indigo",
+    "replace": ["bg-indigo"]
+  }
+]
