@@ -1,10 +1,42 @@
 [
   {
-    "find": "tp-background--blue",
-    "replace": ["bg-blue"]
+    "old": ["tp-background--blue"],
+    "new": "bg-blue"
   },
   {
-    "find": "tp-background--indigo",
-    "replace": ["bg-indigo"]
+    "old": ["tp-background--indigo"],
+    "new": "bg-indigo"
+  },
+  {
+    "old": ["tp-background--purple"],
+    "new": "bg-purple"
+  },
+  {
+    "old": ["tp-background--green"],
+    "new": "bg-green"
+  },
+  {
+    "old": ["tp-background--yellow"],
+    "new": "bg-yellow"
+  },
+  {
+    "old": ["tp-background--red"],
+    "new": "bg-red"
+  },
+  {
+    "old": ["tp-background--black-300"],
+    "new": "bg-black-300"
+  },
+  {
+    "old": ["tp-background--black"],
+    "new": "bg-black"
+  },
+  {
+    "old": ["tp-background--white"],
+    "new": "bg-white"
+  },
+  {
+    "old": ["tp-background--gray-200"],
+    "new": "bg-gray-200"
   }
 ]
