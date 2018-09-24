@@ -1,7 +1,8 @@
 const replace = require("replace");
-const data = require("./json/background.json");
+
+const category = process.argv[2]; // node app.js [json-package-name]
+const data = require(`./json/${category}.json`);
 const paths = ["/Users/tom/Sites/website/thumbprint/"];
-// const paths = ["./test/"];
 
 function escapeRegExp(text) {
   return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&");
@@ -9,7 +10,7 @@ function escapeRegExp(text) {
 
 function replaceValues(regex, replacement, include, excludeList) {
   replace({
-    regex: regex, // for exact matches
+    regex: regex,
     replacement: replacement,
     paths: paths,
     excludeList: "./config/excludeList.txt",
@@ -21,10 +22,8 @@ function replaceValues(regex, replacement, include, excludeList) {
 }
 
 data.forEach(function(entry) {
-  entry.old.forEach(function(oldValue) {
-    let regex = oldValue + "(?!-)";
-    const include = "*.html, *.js, *.jsx";
+  let regex = entry.old + "(?!-)"; // exact match: foo but not foobar
+  const include = "*.html, *.js, *.jsx, *.scss";
 
-    replaceValues(regex, entry.new, include);
-  });
+  replaceValues(regex, entry.new, include);
 });

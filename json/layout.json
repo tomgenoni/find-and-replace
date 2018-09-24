@@ -1,0 +1,74 @@
+[
+  {
+    "old": "tp-display--block",
+    "new": "db"
+  },
+  {
+    "old": "tp-display--inline",
+    "new": "di"
+  },
+  {
+    "old": "tp-display--inline-block",
+    "new": "dib"
+  },
+  {
+    "old": "tp-display--none",
+    "new": "dn"
+  },
+  {
+    "old": "tp-display--none--small",
+    "new": "dn s_db"
+  },
+  {
+    "old": "tp-display--none--medium",
+    "new": "s_dn m_db"
+  },
+  {
+    "old": "tp-display--none--large",
+    "new": "m_dn l_db"
+  },
+  {
+    "old": "tp-display--none--large-plus",
+    "new": "l_dn"
+  },
+  {
+    "old": "tp-display--block--small",
+    "new": "s_dn"
+  },
+  {
+    "old": "tp-display--block--medium",
+    "new": "dn s_db m_dn"
+  },
+  {
+    "old": "tp-display--block--large",
+    "new": "dn m_db l_dn"
+  },
+  {
+    "old": "tp-display--block--large-plus",
+    "new": "dn l_db"
+  },
+  {
+    "old": "tp-hide--sm",
+    "new": "dn s_db"
+  },
+  {
+    "old": "tp-hide--sm-md",
+    "new": "dn m_db"
+  },
+  {
+    "old": "tp-hide--sm-md-lg",
+    "new": "dn l_db"
+  },
+  {
+    "old": "tp-hide--md-lg-lgp",
+    "new": "s_dn"
+  },
+  {
+    "old": "tp-hide--lg-lgp",
+    "new": "m_dn"
+  },
+  {
+    "old": "tp-hide--lgp",
+    "new": "l_dn"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "old": "tp-flex",
+    "new": "flex"
+  },
+  {
+    "old": "tp-flex--column",
+    "new": "flex-column"
+  },
+  {
+    "old": "tp-flex--row",
+    "new": "flex-row"
+  },
+  {
+    "old": "tp-flex--wrap",
+    "new": "flex-wrap"
+  },
+  {
+    "old": "tp-flex--nowrap",
+    "new": "flex-nowrap"
+  },
+  {
+    "old": "tp-flex--auto",
+    "new": "flex-auto"
+  },
+  {
+    "old": "tp-flex--none",
+    "new": "flex-none"
+  },
+  {
+    "old": "tp-flex--items-start",
+    "new": "items-start"
+  },
+  {
+    "old": "tp-flex--items-end",
+    "new": "items-end"
+  },
+  {
+    "old": "tp-flex--items-center",
+    "new": "items-center"
+  },
+  {
+    "old": "tp-flex--items-baseline",
+    "new": "items-baseline"
+  },
+  {
+    "old": "tp-flex--items-stretch",
+    "new": "items-stretch"
+  },
+  {
+    "old": "tp-flex--self-start",
+    "new": "self-start"
+  },
+  {
+    "old": "tp-flex--self-end",
+    "new": "self-end"
+  },
+  {
+    "old": "tp-flex--self-center",
+    "new": "self-center"
+  },
+  {
+    "old": "tp-flex--self-baseline",
+    "new": "self-baseline"
+  },
+  {
+    "old": "tp-flex--self-stretch",
+    "new": "self-stretch"
+  },
+  {
+    "old": "tp-flex--justify-start",
+    "new": "justify-start"
+  },
+  {
+    "old": "tp-flex--justify-end",
+    "new": "justify-end"
+  },
+  {
+    "old": "tp-flex--justify-center",
+    "new": "justify-center"
+  },
+  {
+    "old": "tp-flex--justify-between",
+    "new": "justify-between"
+  },
+  {
+    "old": "tp-flex--justify-around",
+    "new": "justify-around"
+  },
+  {
+    "old": "tp-flex--sm",
+    "new": "s_flex"
+  },
+  {
+    "old": "tp-flex--column--sm",
+    "new": "s_flex-column"
+  },
+  {
+    "old": "tp-flex--row--sm",
+    "new": "s_flex-row"
+  },
+  {
+    "old": "tp-flex--wrap--sm",
+    "new": "s_flex-wrap"
+  },
+  {
+    "old": "tp-flex--nowrap--sm",
+    "new": "s_flex-nowrap"
+  },
+  {
+    "old": "tp-flex--auto--sm",
+    "new": "s_flex-auto"
+  },
+  {
+    "old": "tp-flex--none--sm",
+    "new": "s_flex-none"
+  },
+  {
+    "old": "tp-flex--items-start--sm",
+    "new": "s_items-start"
+  },
+  {
+    "old": "tp-flex--items-end--sm",
+    "new": "s_items-end"
+  },
+  {
+    "old": "tp-flex--items-center--sm",
+    "new": "s_items-center"
+  },
+  {
+    "old": "tp-flex--items-baseline--sm",
+    "new": "s_items-baseline"
+  },
+  {
+    "old": "tp-flex--items-stretch--sm",
+    "new": "s_items-stretch"
+  },
+  {
+    "old": "tp-flex--self-start--sm",
+    "new": "s_self-start"
+  },
+  {
+    "old": "tp-flex--self-end--sm",
+    "new": "s_self-end"
+  },
+  {
+    "old": "tp-flex--self-center--sm",
+    "new": "s_self-center"
+  },
+  {
+    "old": "tp-flex--self-baseline--sm",
+    "new": "s_self-baseline"
+  },
+  {
+    "old": "tp-flex--self-stretch--sm",
+    "new": "s_self-stretch"
+  },
+  {
+    "old": "tp-flex--justify-start--sm",
+    "new": "s_justify-start"
+  },
+  {
+    "old": "tp-flex--justify-end--sm",
+    "new": "s_justify-end"
+  },
+  {
+    "old": "tp-flex--justify-center--sm",
+    "new": "s_justify-center"
+  },
+  {
+    "old": "tp-flex--justify-between--sm",
+    "new": "s_justify-between"
+  },
+  {
+    "old": "tp-flex--justify-around--sm",
+    "new": "s_justify-around"
+  },
+  {
+    "old": "tp-flex--md",
+    "new": "m_flex"
+  },
+  {
+    "old": "tp-flex--column--md",
+    "new": "m_flex-column"
+  },
+  {
+    "old": "tp-flex--row--md",
+    "new": "m_flex-row"
+  },
+  {
+    "old": "tp-flex--wrap--md",
+    "new": "m_flex-wrap"
+  },
+  {
+    "old": "tp-flex--nowrap--md",
+    "new": "m_flex-nowrap"
+  },
+  {
+    "old": "tp-flex--auto--md",
+    "new": "m_flex-auto"
+  },
+  {
+    "old": "tp-flex--none--md",
+    "new": "m_flex-none"
+  },
+  {
+    "old": "tp-flex--items-start--md",
+    "new": "m_items-start"
+  },
+  {
+    "old": "tp-flex--items-end--md",
+    "new": "m_items-end"
+  },
+  {
+    "old": "tp-flex--items-center--md",
+    "new": "m_items-center"
+  },
+  {
+    "old": "tp-flex--items-baseline--md",
+    "new": "m_items-baseline"
+  },
+  {
+    "old": "tp-flex--items-stretch--md",
+    "new": "m_items-stretch"
+  },
+  {
+    "old": "tp-flex--self-start--md",
+    "new": "m_self-start"
+  },
+  {
+    "old": "tp-flex--self-end--md",
+    "new": "m_self-end"
+  },
+  {
+    "old": "tp-flex--self-center--md",
+    "new": "m_self-center"
+  },
+  {
+    "old": "tp-flex--self-baseline--md",
+    "new": "m_self-baseline"
+  },
+  {
+    "old": "tp-flex--self-stretch--md",
+    "new": "m_self-stretch"
+  },
+  {
+    "old": "tp-flex--justify-start--md",
+    "new": "m_justify-start"
+  },
+  {
+    "old": "tp-flex--justify-end--md",
+    "new": "m_justify-end"
+  },
+  {
+    "old": "tp-flex--justify-center--md",
+    "new": "m_justify-center"
+  },
+  {
+    "old": "tp-flex--justify-between--md",
+    "new": "m_justify-between"
+  },
+  {
+    "old": "tp-flex--justify-around--md",
+    "new": "m_justify-around"
+  },
+  {
+    "old": "tp-flex--lg",
+    "new": "l_flex"
+  },
+  {
+    "old": "tp-flex--column--lg",
+    "new": "l_flex-column"
+  },
+  {
+    "old": "tp-flex--row--lg",
+    "new": "l_flex-row"
+  },
+  {
+    "old": "tp-flex--wrap--lg",
+    "new": "l_flex-wrap"
+  },
+  {
+    "old": "tp-flex--nowrap--lg",
+    "new": "l_flex-nowrap"
+  },
+  {
+    "old": "tp-flex--auto--lg",
+    "new": "l_flex-auto"
+  },
+  {
+    "old": "tp-flex--none--lg",
+    "new": "l_flex-none"
+  },
+  {
+    "old": "tp-flex--items-start--lg",
+    "new": "l_items-start"
+  },
+  {
+    "old": "tp-flex--items-end--lg",
+    "new": "l_items-end"
+  },
+  {
+    "old": "tp-flex--items-center--lg",
+    "new": "l_items-center"
+  },
+  {
+    "old": "tp-flex--items-baseline--lg",
+    "new": "l_items-baseline"
+  },
+  {
+    "old": "tp-flex--items-stretch--lg",
+    "new": "l_items-stretch"
+  },
+  {
+    "old": "tp-flex--self-start--lg",
+    "new": "l_self-start"
+  },
+  {
+    "old": "tp-flex--self-end--lg",
+    "new": "l_self-end"
+  },
+  {
+    "old": "tp-flex--self-center--lg",
+    "new": "l_self-center"
+  },
+  {
+    "old": "tp-flex--self-baseline--lg",
+    "new": "l_self-baseline"
+  },
+  {
+    "old": "tp-flex--self-stretch--lg",
+    "new": "l_self-stretch"
+  },
+  {
+    "old": "tp-flex--justify-start--lg",
+    "new": "l_justify-start"
+  },
+  {
+    "old": "tp-flex--justify-end--lg",
+    "new": "l_justify-end"
+  },
+  {
+    "old": "tp-flex--justify-center--lg",
+    "new": "l_justify-center"
+  },
+  {
+    "old": "tp-flex--justify-between--lg",
+    "new": "l_justify-between"
+  },
+  {
+    "old": "tp-flex--justify-around--lg",
+    "new": "l_justify-around"
+  }
+]

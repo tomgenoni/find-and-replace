@@ -1,0 +1,134 @@
+[
+  {
+    "new": "tp-color--black",
+    "old": "black"
+  },
+  {
+    "new": "tp-color--black-300",
+    "old": "black-300"
+  },
+  {
+    "new": "tp-color--white",
+    "old": "white"
+  },
+  {
+    "new": "tp-color--blue",
+    "old": "blue"
+  },
+  {
+    "new": "tp-color--indigo",
+    "old": "indigo"
+  },
+  {
+    "new": "tp-color--purple",
+    "old": "purple"
+  },
+  {
+    "new": "tp-color--green",
+    "old": "green"
+  },
+  {
+    "new": "tp-color--yellow",
+    "old": "yellow"
+  },
+  {
+    "new": "tp-color--red",
+    "old": "red"
+  },
+  {
+    "new": "tp-weight--normal",
+    "old": "normal"
+  },
+  {
+    "new": "tp-weight--bold",
+    "old": "b"
+  },
+  {
+    "new": "tp-text--strike",
+    "old": "strike"
+  },
+  {
+    "new": "tp-text--caps",
+    "old": "ttu"
+  },
+  {
+    "new": "tp-text--truncate",
+    "old": "truncate"
+  },
+  {
+    "new": "tp-text--nowrap",
+    "old": "nowrap"
+  },
+  {
+    "new": "tp-text--left",
+    "old": "tl"
+  },
+  {
+    "new": "tp-text--center",
+    "old": "tc"
+  },
+  {
+    "new": "tp-text--right",
+    "old": "tr"
+  },
+  {
+    "new": "tp-color--base",
+    "old": "black"
+  },
+  {
+    "new": "tp-color--dark",
+    "old": "black"
+  },
+  {
+    "new": "tp-color--main",
+    "old": "blue"
+  },
+  {
+    "new": "tp-color--celebrate",
+    "old": "yellow"
+  },
+  {
+    "new": "tp-color--betterment",
+    "old": "indigo"
+  },
+  {
+    "new": "tp-color--crafty",
+    "old": "purple"
+  },
+  {
+    "new": "tp-color--muted",
+    "old": "black-300"
+  },
+  {
+    "new": "tp-color--pale",
+    "old": "gray"
+  },
+  {
+    "new": "tp-color--good-news",
+    "old": "green"
+  },
+  {
+    "new": "tp-color--sky",
+    "old": "blue"
+  },
+  {
+    "new": "tp-color--sky-dark",
+    "old": "blue-500"
+  },
+  {
+    "new": "tp-color--bad-news",
+    "old": "red"
+  },
+  {
+    "new": "tp-color--bad-news-light",
+    "old": "red-300"
+  },
+  {
+    "new": "tp-weight--medium",
+    "old": "normal"
+  },
+  {
+    "new": "tp-weight--demi",
+    "old": "b"
+  }
+]

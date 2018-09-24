@@ -1,0 +1,170 @@
+[
+  {
+    "old": "tp-margin",
+    "new": "ma2"
+  },
+  {
+    "old": "tp-margin-top",
+    "new": "mt2"
+  },
+  {
+    "old": "tp-margin-right",
+    "new": "mr2"
+  },
+  {
+    "old": "tp-margin-bottom",
+    "new": "mb2"
+  },
+  {
+    "old": "tp-margin-left",
+    "new": "ml2"
+  },
+  {
+    "old": "tp-margin-ends",
+    "new": "mv2"
+  },
+  {
+    "old": "tp-margin-sides",
+    "new": "mh2"
+  },
+  {
+    "old": "tp-margin--half",
+    "new": "ma1"
+  },
+  {
+    "old": "tp-margin-top--half",
+    "new": "mt1"
+  },
+  {
+    "old": "tp-margin-right--half",
+    "new": "mr1"
+  },
+  {
+    "old": "tp-margin-bottom--half",
+    "new": "mb1"
+  },
+  {
+    "old": "tp-margin-left--half",
+    "new": "ml1"
+  },
+  {
+    "old": "tp-margin-ends--half",
+    "new": "mv1"
+  },
+  {
+    "old": "tp-margin-sides--half",
+    "new": "mh1"
+  },
+  {
+    "old": "tp-margin--double",
+    "new": "ma3"
+  },
+  {
+    "old": "tp-margin-top--double",
+    "new": "mt3"
+  },
+  {
+    "old": "tp-margin-right--double",
+    "new": "mr3"
+  },
+  {
+    "old": "tp-margin-bottom--double",
+    "new": "mb3"
+  },
+  {
+    "old": "tp-margin-left--double",
+    "new": "ml3"
+  },
+  {
+    "old": "tp-margin-ends--double",
+    "new": "mv3"
+  },
+  {
+    "old": "tp-margin-sides--double",
+    "new": "mh3"
+  },
+  {
+    "old": "tp-margin--triple",
+    "new": "ma4"
+  },
+  {
+    "old": "tp-margin-top--triple",
+    "new": "mt4"
+  },
+  {
+    "old": "tp-margin-right--triple",
+    "new": "mr4"
+  },
+  {
+    "old": "tp-margin-bottom--triple",
+    "new": "mb4"
+  },
+  {
+    "old": "tp-margin-left--triple",
+    "new": "ml4"
+  },
+  {
+    "old": "tp-margin-ends--triple",
+    "new": "mv4"
+  },
+  {
+    "old": "tp-margin-sides--triple",
+    "new": "mh4"
+  },
+  {
+    "old": "tp-margin--quad",
+    "new": "ma5"
+  },
+  {
+    "old": "tp-margin-top--quad",
+    "new": "mt5"
+  },
+  {
+    "old": "tp-margin-right--quad",
+    "new": "mr5"
+  },
+  {
+    "old": "tp-margin-bottom--quad",
+    "new": "mb5"
+  },
+  {
+    "old": "tp-margin-left--quad",
+    "new": "ml5"
+  },
+  {
+    "old": "tp-margin-ends--quad",
+    "new": "mv5"
+  },
+  {
+    "old": "tp-margin-sides--quad",
+    "new": "mh5"
+  },
+  {
+    "old": "tp-margin--none",
+    "new": "ma0"
+  },
+  {
+    "old": "tp-margin-top--none",
+    "new": "mt0"
+  },
+  {
+    "old": "tp-margin-right--none",
+    "new": "mr0"
+  },
+  {
+    "old": "tp-margin-bottom--none",
+    "new": "mb0"
+  },
+  {
+    "old": "tp-margin-left--none",
+    "new": "ml0"
+  },
+  {
+    "old": "tp-margin-ends--none",
+    "new": "mv0"
+  },
+  {
+    "old": "tp-margin-sides--none",
+    "new": "mh0"
+  }
+]

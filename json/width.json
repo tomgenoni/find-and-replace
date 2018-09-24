@@ -1,0 +1,126 @@
+[
+  {
+    "old": "tp-width--1-1",
+    "new": "w-100"
+  },
+  {
+    "old": "tp-width--1-2",
+    "new": "w-50"
+  },
+  {
+    "old": "tp-width--1-3",
+    "new": "w-33"
+  },
+  {
+    "old": "tp-width--2-3",
+    "new": "w-66"
+  },
+  {
+    "old": "tp-width--1-4",
+    "new": "w-25"
+  },
+  {
+    "old": "tp-width--2-4",
+    "new": "w-50"
+  },
+  {
+    "old": "tp-width--3-4",
+    "new": "w-75"
+  },
+  {
+    "old": "tp-width--1-5",
+    "new": "w-20"
+  },
+  {
+    "old": "tp-width--2-5",
+    "new": "w-50"
+  },
+  {
+    "old": "tp-width--3-5",
+    "new": "w-60"
+  },
+  {
+    "old": "tp-width--4-5",
+    "new": "w-80"
+  },
+  {
+    "old": "tp-width--2-6",
+    "new": "w-33"
+  },
+  {
+    "old": "tp-width--3-6",
+    "new": "w-50"
+  },
+  {
+    "old": "tp-width--4-6",
+    "new": "w-66"
+  },
+  {
+    "old": "tp-width--2-8",
+    "new": "w-25"
+  },
+  {
+    "old": "tp-width--4-8",
+    "new": "w-50"
+  },
+  {
+    "old": "tp-width--6-8",
+    "new": "w-75"
+  },
+  {
+    "old": "tp-width--1-10",
+    "new": "w-10"
+  },
+  {
+    "old": "tp-width--2-10",
+    "new": "w-20"
+  },
+  {
+    "old": "tp-width--3-10",
+    "new": "w-30"
+  },
+  {
+    "old": "tp-width--4-10",
+    "new": "w-40"
+  },
+  {
+    "old": "tp-width--5-10",
+    "new": "w-50"
+  },
+  {
+    "old": "tp-width--6-10",
+    "new": "w-60"
+  },
+  {
+    "old": "tp-width--7-10",
+    "new": "w-70"
+  },
+  {
+    "old": "tp-width--8-10",
+    "new": "w-80"
+  },
+  {
+    "old": "tp-width--9-10",
+    "new": "w-90"
+  },
+  {
+    "old": "tp-width--3-12",
+    "new": "w-25"
+  },
+  {
+    "old": "tp-width--4-12",
+    "new": "w-33"
+  },
+  {
+    "old": "tp-width--6-12",
+    "new": "w-50"
+  },
+  {
+    "old": "tp-width--8-12",
+    "new": "w-66"
+  },
+  {
+    "old": "tp-width--9-12",
+    "new": "w-75"
+  }
+]

@@ -1,42 +1,54 @@
 [
   {
-    "old": ["tp-background--blue"],
+    "old": "tp-background--blue",
     "new": "bg-blue"
   },
   {
-    "old": ["tp-background--indigo"],
+    "old": "tp-background--indigo",
     "new": "bg-indigo"
   },
   {
-    "old": ["tp-background--purple"],
+    "old": "tp-background--purple",
     "new": "bg-purple"
   },
   {
-    "old": ["tp-background--green"],
+    "old": "tp-background--green",
     "new": "bg-green"
   },
   {
-    "old": ["tp-background--yellow"],
+    "old": "tp-background--yellow",
     "new": "bg-yellow"
   },
   {
-    "old": ["tp-background--red"],
+    "old": "tp-background--red",
     "new": "bg-red"
   },
   {
-    "old": ["tp-background--black-300"],
+    "old": "tp-background--black-300",
     "new": "bg-black-300"
   },
   {
-    "old": ["tp-background--black"],
+    "old": "tp-background--black",
     "new": "bg-black"
   },
   {
-    "old": ["tp-background--white"],
+    "old": "tp-background--gray-200",
+    "new": "bg-gray-200"
+  },
+  {
+    "old": "tp-background--gray-300",
+    "new": "bg-gray-300"
+  },
+  {
+    "old": "tp-background--white",
     "new": "bg-white"
   },
   {
-    "old": ["tp-background--gray-200"],
-    "new": "bg-gray-200"
+    "old": "tp-background--light",
+    "new": "bg-gray-300"
+  },
+  {
+    "old": "tp-background--dark",
+    "new": "bg-black"
   }
 ]

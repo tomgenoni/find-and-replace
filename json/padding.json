@@ -1,0 +1,170 @@
+[
+  {
+    "old": "tp-padding",
+    "new": "pa2"
+  },
+  {
+    "old": "tp-padding-top",
+    "new": "pt2"
+  },
+  {
+    "old": "tp-padding-right",
+    "new": "pr2"
+  },
+  {
+    "old": "tp-padding-bottom",
+    "new": "pb2"
+  },
+  {
+    "old": "tp-padding-left",
+    "new": "pl2"
+  },
+  {
+    "old": "tp-padding-ends",
+    "new": "pv2"
+  },
+  {
+    "old": "tp-padding-sides",
+    "new": "ph2"
+  },
+  {
+    "old": "tp-padding--half",
+    "new": "pa1"
+  },
+  {
+    "old": "tp-padding-top--half",
+    "new": "pt1"
+  },
+  {
+    "old": "tp-padding-right--half",
+    "new": "pr1"
+  },
+  {
+    "old": "tp-padding-bottom--half",
+    "new": "pb1"
+  },
+  {
+    "old": "tp-padding-left--half",
+    "new": "pl1"
+  },
+  {
+    "old": "tp-padding-ends--half",
+    "new": "pv1"
+  },
+  {
+    "old": "tp-padding-sides--half",
+    "new": "ph1"
+  },
+  {
+    "old": "tp-padding--double",
+    "new": "pa3"
+  },
+  {
+    "old": "tp-padding-top--double",
+    "new": "pt3"
+  },
+  {
+    "old": "tp-padding-right--double",
+    "new": "pr3"
+  },
+  {
+    "old": "tp-padding-bottom--double",
+    "new": "pb3"
+  },
+  {
+    "old": "tp-padding-left--double",
+    "new": "pl3"
+  },
+  {
+    "old": "tp-padding-ends--double",
+    "new": "pv3"
+  },
+  {
+    "old": "tp-padding-sides--double",
+    "new": "ph3"
+  },
+  {
+    "old": "tp-padding--triple",
+    "new": "pa4"
+  },
+  {
+    "old": "tp-padding-top--triple",
+    "new": "pt4"
+  },
+  {
+    "old": "tp-padding-right--triple",
+    "new": "pr4"
+  },
+  {
+    "old": "tp-padding-bottom--triple",
+    "new": "pb4"
+  },
+  {
+    "old": "tp-padding-left--triple",
+    "new": "pl4"
+  },
+  {
+    "old": "tp-padding-ends--triple",
+    "new": "pv4"
+  },
+  {
+    "old": "tp-padding-sides--triple",
+    "new": "ph4"
+  },
+  {
+    "old": "tp-padding--quad",
+    "new": "pa5"
+  },
+  {
+    "old": "tp-padding-top--quad",
+    "new": "pt5"
+  },
+  {
+    "old": "tp-padding-right--quad",
+    "new": "pr5"
+  },
+  {
+    "old": "tp-padding-bottom--quad",
+    "new": "pb5"
+  },
+  {
+    "old": "tp-padding-left--quad",
+    "new": "pl5"
+  },
+  {
+    "old": "tp-padding-ends--quad",
+    "new": "pv5"
+  },
+  {
+    "old": "tp-padding-sides--quad",
+    "new": "ph5"
+  },
+  {
+    "old": "tp-padding--none",
+    "new": "pa0"
+  },
+  {
+    "old": "tp-padding-top--none",
+    "new": "pt0"
+  },
+  {
+    "old": "tp-padding-right--none",
+    "new": "pr0"
+  },
+  {
+    "old": "tp-padding-bottom--none",
+    "new": "pb0"
+  },
+  {
+    "old": "tp-padding-left--none",
+    "new": "pl0"
+  },
+  {
+    "old": "tp-padding-ends--none",
+    "new": "pv0"
+  },
+  {
+    "old": "tp-padding-sides--none",
+    "new": "ph0"
+  }
+]
