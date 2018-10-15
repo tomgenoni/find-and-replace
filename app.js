@@ -2,8 +2,8 @@ const replace = require("replace");
 
 const category = process.argv[2];
 const data = require(`./json/${category}.json`);
-const paths = ["/Users/tom/Sites/website/thumbprint/"];
-//const paths = ["./test/"];
+//const paths = ["/Users/tom/Sites/website/thumbprint/"];
+const paths = ["./test/"];
 
 function escapeRegExp(text) {
     return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&");
@@ -23,7 +23,7 @@ function replaceValues(regex, replacement, include, excludeList) {
 
 data.forEach(function(entry) {
     let string = escapeRegExp(entry.old);
-    let regex = new RegExp("\\b" + entry.old + "\\b", "g"); // exact match: foo but not foobar
+    let regex = string + "(?!-)\\b"; // exact match: foo but not foobar
     const include = "*.html, *.js, *.jsx, *.scss";
 
     replaceValues(regex, entry.new, include);
