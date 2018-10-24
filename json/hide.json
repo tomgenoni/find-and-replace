@@ -1,0 +1,14 @@
+[
+    {
+        "old": "tp-hide--md-lg-lgp",
+        "new": "s_dn"
+    },
+    {
+        "old": "tp-hide--lg-lgp",
+        "new": "m_dn"
+    },
+    {
+        "old": "tp-hide--lgp",
+        "new": "l_dn"
+    }
+]
