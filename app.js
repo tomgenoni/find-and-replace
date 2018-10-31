@@ -2,8 +2,8 @@ const replace = require("replace");
 
 const category = process.argv[2];
 const data = require(`./json/${category}.json`);
-//const paths = ["/Users/tom/Sites/website/thumbprint/"];
-const paths = ["./test/"];
+const paths = ["/Users/tom/Sites/website/thumbprint/"];
+//const paths = ["./test/"];
 
 function escapeRegExp(text) {
     return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&");
