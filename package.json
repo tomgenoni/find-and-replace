@@ -3,7 +3,6 @@
         "all": "node find-replace.js background && node find-replace.js flexbox && node find-replace.js height && node find-replace.js hide && node find-replace.js layout && node find-replace.js margin && node find-replace.js padding && node find-replace.js type && node find-replace.js width"
     },
     "dependencies": {
-        "find-in-files": "^0.5.0",
         "replace": "^1.0.0"
     }
 }

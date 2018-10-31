@@ -25,5 +25,5 @@ data.forEach(function(entry) {
     let regex = string + "(?!-)\\b"; // exact match: foo but not foobar
     const include = "*.html, *.js, *.jsx, *.scss, *.json";
 
-    replaceValues(regex, `FIX-${entry}`, include);
+    replaceValues(regex, `DEPRECATED-${entry}`, include);
 });

@@ -2,12 +2,12 @@
 
 ## find-replace.js
 
-Finds and replaces `tp-` deprecated classes that have Atomic replacements. Note that not all `tp-` classes are covered here. For example `tp-width--50` has no direct replacement, is not surfaced by this script, and must be replaced manually. To look for any instance of a deprecated `tp-` class see `find.js`.
+Finds and replaces `tp-` deprecated classes that have Atomic replacements. **Not all `tp-` classes are covered here.** For example `tp-width--50` has no direct replacement, is not surfaced by this script and must be replaced manually. To look for **all** instances of a deprecated `tp-` classes see `find.js`.
 
 ### Usage
 
--   `yarn all` to look for all categories
--   `node find-replace.js [json-package-name]` e.g., `node find-replace.js flexbox`
+-   `yarn all` to find and replace all categories of deprecated `tp-` utility classses
+-   `node find-replace.js [json-package-name]` e.g., `node find-replace.js flexbox` for specific categories
 
 ## find.js
 
