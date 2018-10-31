@@ -24,7 +24,7 @@ function replaceValues(regex, replacement, include, excludeList) {
 data.forEach(function(entry) {
     let string = escapeRegExp(entry.old);
     let regex = string + "(?!-)\\b"; // exact match: foo but not foobar
-    const include = "*.html, *.js, *.jsx, *.scss";
+    const include = "*.html, *.js, *.jsx, *.scss, *.json";
 
     replaceValues(regex, entry.new, include);
 });
