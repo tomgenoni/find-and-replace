@@ -1,7 +1,7 @@
 const replace = require("replace");
 
 const category = process.argv[2];
-const data = require(`./json/${category}.json`);
+const data = require(`./json/replace/${category}.json`);
 const paths = ["/Users/tom/Sites/website/thumbprint/"];
 //const paths = ["./test/"];
 
