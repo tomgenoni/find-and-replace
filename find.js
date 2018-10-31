@@ -1,17 +1,29 @@
-const findInFiles = require("find-in-files");
-const data = require(`./json/find/all.json`);
-const path = "/Users/tom/Sites/website/thumbprint/";
-const filetypes = ".html$";
+const replace = require("replace");
+
+const data = require("./json/find/all.json");
+//const paths = ["/Users/tom/Sites/website/thumbprint/"];
+const paths = ["./test/"];
+
+function escapeRegExp(text) {
+    return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&");
+}
+
+function replaceValues(regex, replacement, include) {
+    replace({
+        regex: regex,
+        replacement: replacement,
+        paths: paths,
+        excludeList: "./config/excludeList.txt",
+        include: include,
+        recursive: true,
+        count: true
+    });
+}
 
 data.forEach(function(entry) {
-    findInFiles
-        .find({ term: string + "(?!-)\\b", flags: "ig" }, path, filetypes)
-        .then(function(results) {
-            for (var result in results) {
-                var res = results[result];
-                console.log(
-                    `found ${res.matches[0]} ${res.count} times in ${result}`
-                );
-            }
-        });
+    let string = escapeRegExp(entry);
+    let regex = string + "(?!-)\\b"; // exact match: foo but not foobar
+    const include = "*.html, *.js, *.jsx, *.scss, *.json";
+
+    replaceValues(regex, `FIX-${entry}`, include);
 });

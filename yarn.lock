@@ -33,6 +33,19 @@ concat-map@0.0.1:
   version "0.0.1"
   resolved "https://production-npm.thumbtack.com/concat-map/-/concat-map-0.0.1/d8a96bd77fd68df7793a73036a3ba0d5405d477b.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
 
+find-in-files@^0.5.0:
+  version "0.5.0"
+  resolved "https://production-npm.thumbtack.com/find-in-files/-/find-in-files-0.5.0/8e5a20ffb562e0a47cb916b7f7b821717025e691.tgz#8e5a20ffb562e0a47cb916b7f7b821717025e691"
+  dependencies:
+    find "^0.1.5"
+    q "^1.0.1"
+
+find@^0.1.5:
+  version "0.1.7"
+  resolved "https://production-npm.thumbtack.com/find/-/find-0.1.7/c86c87af1ab18f222bbe38dec86cbc760d16a6fb.tgz#c86c87af1ab18f222bbe38dec86cbc760d16a6fb"
+  dependencies:
+    traverse-chain "~0.1.0"
+
 has-color@~0.1.0:
   version "0.1.7"
   resolved "https://production-npm.thumbtack.com/has-color/-/has-color-0.1.7/67144a5260c34fc3cca677d041daf52fe7b78b2f.tgz#67144a5260c34fc3cca677d041daf52fe7b78b2f"
@@ -50,6 +63,10 @@ nomnom@1.8.1:
     chalk "~0.4.0"
     underscore "~1.6.0"
 
+q@^1.0.1:
+  version "1.5.1"
+  resolved "https://production-npm.thumbtack.com/q/-/q-1.5.1/7e32f75b41381291d04611f1bf14109ac00651d7.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
+
 replace@^1.0.0:
   version "1.0.0"
   resolved "https://production-npm.thumbtack.com/replace/-/replace-1.0.0/da5235cc6d64d5c3a74e4ef73b487aad0f79a74b.tgz#da5235cc6d64d5c3a74e4ef73b487aad0f79a74b"
@@ -61,6 +78,10 @@ replace@^1.0.0:
 strip-ansi@~0.1.0:
   version "0.1.1"
   resolved "https://production-npm.thumbtack.com/strip-ansi/-/strip-ansi-0.1.1/39e8a98d044d150660abe4a6808acf70bb7bc991.tgz#39e8a98d044d150660abe4a6808acf70bb7bc991"
+
+traverse-chain@~0.1.0:
+  version "0.1.0"
+  resolved "https://production-npm.thumbtack.com/traverse-chain/-/traverse-chain-0.1.0/61dbc2d53b69ff6091a12a168fd7d433107e40f1.tgz#61dbc2d53b69ff6091a12a168fd7d433107e40f1"
 
 underscore@~1.6.0:
   version "1.6.0"

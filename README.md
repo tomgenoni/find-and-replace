@@ -11,7 +11,7 @@ Finds and replaces `tp-` deprecated classes that have Atomic replacements. Note 
 
 ## find.js
 
-This script will find _any_ instance of a deprecated `tp-` utility class but does not replace it. This is helpful for locating deprecated classes whether or not it has a 1:1 replacement with an Atomic class.
+This script will find _any_ instance of a deprecated `tp-` utility class and will prepend `DEPRECATED-` to the class so that it can be resolved manually. This is helpful for locating deprecated classes whether or not it has a 1:1 replacement with an Atomic class.
 
 ### Usage
 
