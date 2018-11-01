@@ -2,7 +2,7 @@ const replace = require("replace");
 
 const category = process.argv[2];
 const data = require(`./json/replace/${category}.json`);
-const paths = ["/Users/tom/Sites/website/thumbprint/"];
+const paths = ["/Users/tom/Sites/website/"];
 //const paths = ["./test/"];
 
 function escapeRegExp(text) {

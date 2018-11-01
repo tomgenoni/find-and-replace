@@ -1,7 +1,7 @@
 const replace = require("replace");
 
 const data = require("./json/find/all.json");
-const paths = ["/Users/tom/Sites/website/thumbprint/"];
+const paths = ["/Users/tom/Sites/website/"];
 // const paths = ["./test/"];
 
 function escapeRegExp(text) {
